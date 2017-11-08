@@ -1,0 +1,3 @@
+{
+  "browser": ["firefox"]         //to make chrome to default browser
+}
